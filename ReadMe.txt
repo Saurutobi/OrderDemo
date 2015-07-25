@@ -1,2 +1,1 @@
-This is part of a project my friend had to do for class. He didn't understand it so I went through the project how
-I would make it and demonstrated how certain things work and why they're necessary. He then tried to make it himself.
+This is part of a project my friend had to do for class. He didn't understand it so I went through the project how I would make it and demonstrated how certain things work and why they're necessary. He then tried to make it himself.
